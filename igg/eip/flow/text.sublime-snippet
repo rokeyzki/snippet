@@ -1,0 +1,15 @@
+<snippet>
+  <content>
+<![CDATA[
+<igg:text title="{{flowTL('${1:标题}')}}"
+  name="exec_data[${2:字段}]" value="{{getArrayVal(\$exec_data, '${2:字段}')}}"
+  style="width:100%" placeholder="{{flowTL('${3:提示}')}}"
+  data-dismiss="validate" data-required="true" viewmode="{{\$input == 'disabled'}}">
+</igg:text>
+]]>
+  </content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>eip:flow:text</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>
