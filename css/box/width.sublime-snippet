@@ -1,11 +1,17 @@
 <snippet>
   <content>
 <![CDATA[
-<script src="https://cdn.bootcss.com/underscore.js/1.8.0/underscore-min.js"></script>
+${2:/* 参数
+ * 绝对值：px
+ * 相对值：em
+ * 百分比：%
+ * 自动：auto
+ * 继承：inherit
+ */}width: ${1:value};
 ]]>
   </content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>cdn-underscore</tabTrigger>
+  <tabTrigger>css-box-宽度</tabTrigger>
   <!-- Optional: Set a scope to limit where the snippet will trigger -->
   <!-- <scope>source.python</scope> -->
 </snippet>
