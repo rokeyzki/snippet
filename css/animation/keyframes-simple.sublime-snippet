@@ -1,18 +1,17 @@
 <snippet>
   <content>
 <![CDATA[
-${2:/* 参数
- *
- * 绝对值：px
- * 相对值：em
- * 百分比：%
- * 自动：auto
- * 继承：inherit
- */}height: ${1:value};
+@keyframes ${1:name} {
+  from {
+    ${2:top: 0px;}
+  } to {
+    ${3:top: 200px;}
+  }
+}
 ]]>
   </content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>css-box-高度</tabTrigger>
+  <tabTrigger>css-animation-规则-简单</tabTrigger>
   <!-- Optional: Set a scope to limit where the snippet will trigger -->
   <!-- <scope>source.python</scope> -->
 </snippet>
