@@ -5,6 +5,7 @@
  * 1.基础(base)
  * - 区块：display
  * - 显示：visibility
+ * - 透明：opacity
  * 2.盒子(box)
  * - 宽度：width
  * - 高度：height
@@ -24,7 +25,16 @@
  * - 盒子限制：box-sizing
  * - 盒子阴影：box-shadow
  * - 媒体查询：@media
- * 3.背景(bg)
+ * 3.定位(position)
+ * - 位置：position
+ * - 上移：top
+ * - 下移：bottom
+ * - 左移：left
+ * - 右移：right
+ * - 浮动：float
+ * - 清除：clear
+ * - 层级：z-index
+ * 4.背景(background)
  * - 背景可视范围：background-clip
  * - 背景颜色：background-color
  * - 背景图片起点：background-origin
@@ -33,11 +43,12 @@
  * - 背景图片位置：background-position
  * - 背景图片重复：background-repeat
  * - 背景图片滚动：background-attachment
- * 4.格式(space)
- * 5.字体(font)
- * 6.变换(transform)
- * 7.定位(position)
- * 8.动画(anima)
+ * 5.格式(space)
+ * 6.字体(font)
+ * 7.变换(transform)
+ * - 变换原点：transform-origin
+ * - 变换：transform
+ * 8.动画(animation)
  * - 设定：animation
  * - 规则：@keyframes
  */
