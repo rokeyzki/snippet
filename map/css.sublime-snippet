@@ -45,9 +45,9 @@
  * - 背景图片滚动：background-attachment
  * 5.格式(space)
  * 6.字体(font)
- * 7.变换(transform)
- * - 变换原点：transform-origin
- * - 变换：transform
+ * 7.变形(transform)
+ * - 变形原点：transform-origin
+ * - 变形：transform
  * 8.动画(animation)
  * - 设定：animation
  * - 规则：@keyframes
