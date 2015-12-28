@@ -1,0 +1,17 @@
+<snippet>
+  <content>
+<![CDATA[
+@keyframes ${1:name} {
+  from {
+    ${2:top: 0px;}
+  } to {
+    ${3:top: 200px;}
+  }
+}
+]]>
+  </content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>css-anima-@keyframes-simple</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>
