@@ -2,7 +2,7 @@
   <content>
 <![CDATA[
 ${3:/* == 后缀 ==
- * 全部：none
+ * 全部：(none)
  * 水平：-x
  * 垂直：-y
  *
@@ -16,7 +16,7 @@ ${3:/* == 后缀 ==
 ]]>
   </content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>css-box-内容溢出</tabTrigger>
+  <tabTrigger>css-box-overflow</tabTrigger>
   <!-- Optional: Set a scope to limit where the snippet will trigger -->
   <!-- <scope>source.python</scope> -->
 </snippet>

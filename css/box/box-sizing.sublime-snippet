@@ -9,7 +9,7 @@ ${2:/* == 参数 ==
 ]]>
   </content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>css-box-盒子限制</tabTrigger>
+  <tabTrigger>css-box-sizing</tabTrigger>
   <!-- Optional: Set a scope to limit where the snippet will trigger -->
   <!-- <scope>source.python</scope> -->
 </snippet>

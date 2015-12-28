@@ -17,7 +17,7 @@ ${2:/* == 方向 ==
 ]]>
   </content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>css-box-轮廓-宽度</tabTrigger>
+  <tabTrigger>css-box-outline-width</tabTrigger>
   <!-- Optional: Set a scope to limit where the snippet will trigger -->
   <!-- <scope>source.python</scope> -->
 </snippet>

@@ -9,7 +9,7 @@
 ]]>
   </content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>css-box-媒体查询-大于某个宽度时调用</tabTrigger>
+  <tabTrigger>css-box-@media-more</tabTrigger>
   <!-- Optional: Set a scope to limit where the snippet will trigger -->
   <!-- <scope>source.python</scope> -->
 </snippet>

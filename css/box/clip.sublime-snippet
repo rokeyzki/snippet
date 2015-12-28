@@ -9,7 +9,7 @@ ${2:/* == 参数 ==
 ]]>
   </content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>css-box-内容裁剪</tabTrigger>
+  <tabTrigger>css-box-clip</tabTrigger>
   <!-- Optional: Set a scope to limit where the snippet will trigger -->
   <!-- <scope>source.python</scope> -->
 </snippet>
