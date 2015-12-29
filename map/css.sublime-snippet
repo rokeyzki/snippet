@@ -6,6 +6,8 @@
  * - 区块：display
  * - 显示：visibility
  * - 透明：opacity
+ * - 兼容：zoom
+ * - 优先：!important
  * 2.盒子(box)
  * - 宽度：width
  * - 高度：height
@@ -52,13 +54,14 @@
  * - 空白间距：white-space
  * - 列表：list-style
  * 6.字体(font)
- * - 字族：font-family
+ * - 字体栈：font-family
  * - 字体尺寸：font-size
  * - 字体粗细：font-weight
  * - 字体倾斜：font-style
  * - 字体划线：text-decoration
  * - 字体颜色：color
  * - 字体阴影：text-shadow
+ * - 字体渲染：text-rendering
  * - 字体行高：line-height
  * - 字母大小写：text-transform
  * - 字母大写浓缩：font-variant
