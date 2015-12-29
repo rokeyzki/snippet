@@ -1,0 +1,18 @@
+<snippet>
+  <content>
+<![CDATA[
+<!-- css grids：css 响应式栅栏布局，依赖 normalize.css -->
+<link href="https://cdn.bootcss.com/pure/0.6.0/grids-core-min.css" rel="stylesheet">
+<!--[if lte IE 8]>
+    <link href="https://cdn.bootcss.com/pure/0.6.0/grids-responsive-old-ie-min.css" rel="stylesheet">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+    <link href="https://cdn.bootcss.com/pure/0.6.0/grids-responsive-min.css" rel="stylesheet">
+<!--<![endif]-->
+]]>
+  </content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>cdn-pure-grid</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>
