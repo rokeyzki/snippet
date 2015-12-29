@@ -1,0 +1,14 @@
+<snippet>
+  <content>
+<![CDATA[
+${2:/* == 参数 ==
+ * 常用："Microsoft YaHei", "SimSun", "Helvetica Neue", Arial, Helvetica, sans-serif;
+ * 继承：inherit
+ */}font-family: ${1:value};
+]]>
+  </content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>css-font-family</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>
