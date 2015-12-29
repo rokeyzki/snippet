@@ -5,7 +5,8 @@ ${2:/* == 参数 ==
  * 完全不透明：1.0
  * 完全透明：0.0
  * 继承：inherit
- */}opacity: ${1:value};
+ */}opacity: 0.${1:value};
+filter:Alpha(opacity=${1:value}0); /* 兼容 IE8 以及更早的浏览器 */
 ]]>
   </content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
