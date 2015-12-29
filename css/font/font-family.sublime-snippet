@@ -2,9 +2,10 @@
   <content>
 <![CDATA[
 ${2:/* == 参数 ==
- * 常用："Microsoft YaHei", "SimSun", "Helvetica Neue", Arial, Helvetica, sans-serif;
+ * v2ex："Helvetica Neue", "Luxi Sans", "DejaVu Sans", Tahoma, "Hiragino Sans GB", "Microsoft Yahei", sans-serif;
+ * 锤子：Helvetica, Arial, "Hiragino Sans GB", "Microsoft Yahei", "微软雅黑", STHeiti, "华文细黑", sans-serif;
  * 继承：inherit
- */}font-family: ${1:value};
+ */}font-family: ${1:"Helvetica Neue", "Luxi Sans", "DejaVu Sans", Tahoma, "Hiragino Sans GB", "Microsoft Yahei", sans-serif};
 ]]>
   </content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
