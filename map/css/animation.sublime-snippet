@@ -1,0 +1,15 @@
+<snippet>
+  <content>
+<![CDATA[
+${2:/* == CSS 导航 8.动画(animation) ==
+ * 设定：animation
+ * 规则：@keyframes
+ */
+}${1:some-style}
+]]>
+  </content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>map-css-animation</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>
