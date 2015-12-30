@@ -1,7 +1,14 @@
 <snippet>
   <content>
 <![CDATA[
-${2:/* == 方向 ==
+${3:/* == 后缀 ==
+ * 无：(none)
+ * 上：-top
+ * 下：-bottom
+ * 左：-left
+ * 右：-right
+ *
+ * == 方向 ==
  * 全：one
  * 上下、右左：one two
  * 上、右左、下：one two three
@@ -13,7 +20,7 @@ ${2:/* == 方向 ==
  * 百分比：%
  * 自动：auto
  * 继承：inherit
- */}margin: ${1:value};
+ */}margin${1:-left}: ${2:value};
 ]]>
   </content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

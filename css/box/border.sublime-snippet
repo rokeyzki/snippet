@@ -1,7 +1,14 @@
 <snippet>
   <content>
 <![CDATA[
-${4:/* == 参数 ==
+${5:/* == 后缀 ==
+ * 无：(none)
+ * 上：-top
+ * 下：-bottom
+ * 左：-left
+ * 右：-right
+ *
+ * == 参数 ==
  * 默认值：边框宽度 边框样式 边框颜色
  *
  * == 详细说明 ==
@@ -25,7 +32,7 @@ ${4:/* == 参数 ==
  * - 透明：transparent
  * - 反转：invert
  * - 继承：inherit
- */}border: ${1:border-width} ${2:border-style} ${3:border-color};
+ */}border${1:-top}: ${2:border-width} ${3:border-style} ${4:border-color};
 ]]>
   </content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
