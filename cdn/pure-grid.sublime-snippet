@@ -1,14 +1,19 @@
 <snippet>
   <content>
 <![CDATA[
-<!-- css grids：css 响应式栅栏布局，依赖 normalize.css -->
-<link href="https://cdn.bootcss.com/pure/0.6.0/grids-core-min.css" rel="stylesheet">
+<!-- css grids：css 栅栏布局（远古浏览器支持优雅降级、现代浏览器支持媒体查询），依赖 normalize.css -->
+<link href="https://cdn.bootcss.com/pure/0.6.0/grids-min.css" rel="stylesheet">
 <!--[if lte IE 8]>
     <link href="https://cdn.bootcss.com/pure/0.6.0/grids-responsive-old-ie-min.css" rel="stylesheet">
 <![endif]-->
 <!--[if gt IE 8]><!-->
     <link href="https://cdn.bootcss.com/pure/0.6.0/grids-responsive-min.css" rel="stylesheet">
 <!--<![endif]-->
+<style>
+  html, button, input, select, textarea, .pure-g [class *= "pure-u"] { /* 修改Pure默认字体栈 */
+    ${1:font-family: "Helvetica Neue", "Luxi Sans", "DejaVu Sans", Tahoma, "Hiragino Sans GB", "Microsoft Yahei", sans-serif;}
+  }
+</style>
 ]]>
   </content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
