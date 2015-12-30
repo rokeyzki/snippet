@@ -1,8 +1,9 @@
 <snippet>
   <content>
 <![CDATA[
-<!-- css grids：css 栅栏布局（远古浏览器支持优雅降级、现代浏览器支持媒体查询），依赖 normalize.css -->
+<!-- pure-grids：css 栅栏布局，依赖 normalize.css -->
 <link href="https://cdn.bootcss.com/pure/0.6.0/grids-min.css" rel="stylesheet">
+<!-- responsive：css 栅栏布局添加响应式，IE-678 下依赖 respond.js -->
 <!--[if lte IE 8]>
   <link href="https://cdn.bootcss.com/pure/0.6.0/grids-responsive-old-ie-min.css" rel="stylesheet">
 <![endif]-->
