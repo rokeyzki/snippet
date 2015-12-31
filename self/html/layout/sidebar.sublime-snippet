@@ -1,0 +1,31 @@
+<snippet>
+  <content>
+<![CDATA[
+<!-- css -->
+<style>
+  #sidebar {
+    width: 150px;
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 1000;
+
+    background-color: #333;
+  }
+
+  #container {
+    padding-left: 150px;
+  }
+</style>
+<!-- html -->
+<div id="sidebar">侧边栏</div>
+<div id="container">容器</div>
+]]>
+  </content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>html-layout-sidebar</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>

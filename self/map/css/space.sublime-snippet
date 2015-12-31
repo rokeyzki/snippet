@@ -1,0 +1,20 @@
+<snippet>
+  <content>
+<![CDATA[
+${2:/* == CSS 导航 5.格式(space) ==
+ * 行级对齐：vertical-align
+ * 块级对齐：text-align
+ * 文本缩进：text-indent
+ * 字母间距：letter-spacing
+ * 单词间距：word-spacing
+ * 空白间距：white-space
+ * 列表：list-style
+ */
+}${1:some-style}
+]]>
+  </content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>map-css-space</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>

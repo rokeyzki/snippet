@@ -1,0 +1,17 @@
+<snippet>
+  <content>
+<![CDATA[
+${2:/* == 参数 ==
+ * 左侧对齐：left
+ * 中间对齐：center
+ * 右侧对齐：right
+ * 两端对齐：justify
+ * 继承：inherit
+ */}text-align: ${1:value};
+]]>
+  </content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>css-space-text-align</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,16 @@
+<snippet>
+  <content>
+<![CDATA[
+${2:/* == 参数 ==
+ * 完全不透明：1.0
+ * 完全透明：0.0
+ * 继承：inherit
+ */}opacity: 0.${1:value};
+filter:Alpha(opacity=${1:value}0); /* 兼容 IE8 以及更早的浏览器 */
+]]>
+  </content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>css-base-opacity</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>

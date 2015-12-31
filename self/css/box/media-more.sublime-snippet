@@ -1,0 +1,15 @@
+<snippet>
+  <content>
+<![CDATA[
+@media screen and (min-width: ${1:width}px) {
+  ${2:foo} {
+    ${3:background-color:red;}
+  }
+}
+]]>
+  </content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>css-box-media-more</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>

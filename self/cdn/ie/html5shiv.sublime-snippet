@@ -1,0 +1,14 @@
+<snippet>
+  <content>
+<![CDATA[
+<!-- html5shiv.js：使 IE-678 兼容 HTML5 标签 -->
+<!--[if lte IE 8]>
+  <script src="https://cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+<![endif]-->
+]]>
+  </content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>cdn-html5shiv</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>

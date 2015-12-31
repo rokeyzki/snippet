@@ -1,0 +1,14 @@
+<snippet>
+  <content>
+<![CDATA[
+<!-- 不建议使用：respond.js：使 IE-678 兼容 CSS3 媒体查询，注意：如果是使用跨域（cross-domain）CSS，则需要额外配置 -->
+<!--[if lte IE 8]>
+  <script src="https://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+]]>
+  </content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>cdn-respond</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>

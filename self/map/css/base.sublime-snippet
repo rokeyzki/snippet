@@ -1,0 +1,18 @@
+<snippet>
+  <content>
+<![CDATA[
+${2:/* == CSS 导航 1.基础(base) ==
+ * 区块：display
+ * 显示：visibility
+ * 透明：opacity
+ * 兼容：zoom
+ * 优先：!important
+ */
+}${1:some-style}
+]]>
+  </content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>map-css-base</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>
