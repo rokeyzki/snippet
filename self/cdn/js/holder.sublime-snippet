@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+<!-- holder.js：DEMO图片生成脚本，使用示例：<img src="holder.js/300x200?text=Hello&bg=#67DFEB"> -->
+<script src="https://cdn.bootcss.com/holder/2.9.0/holder.min.js"></script>
+]]>
+  </content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>cdn-holder</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>

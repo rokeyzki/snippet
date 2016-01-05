@@ -1,0 +1,18 @@
+<snippet>
+  <content>
+<![CDATA[
+<!-- 命令规则
+导航栏：<nav>
+头部区：<header>
+侧边栏：<div id="sidebar">
+容器：<div id="container">
+章节：<section>
+底部区：<footer>
+-->
+]]>
+  </content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>html-dummy-name</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>
