@@ -1,0 +1,17 @@
+<snippet>
+  <content>
+<![CDATA[
+/* 带边距居右 .section-right */
+float: right; /* 设置块级向右浮动 */
+
+max-width: ${1:300px}; /* 设置最大宽度 */
+padding: ${2:50px}; /* 设置内边距 */
+box-sizing: border-box; /* 内边距计算到盒子宽度中 */
+/* 注意：带边框居右，后面需清除右浮动 .clear{clear: both;} */
+]]>
+  </content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>css-group-layout-right</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>

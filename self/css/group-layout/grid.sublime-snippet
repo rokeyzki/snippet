@@ -1,0 +1,26 @@
+<snippet>
+  <content>
+<![CDATA[
+${1:/* 说明
+  1、准备：
+  1.1：栅栏布局依赖于 cdn-pure-grid
+  1.2：栅栏外部需要使用 <div class="pure-g"></div> 来包含
+
+  2、基础栅栏：
+  2.1：Pure栅格默认支持1、2、3、4、5、6、8、12、24列。比如用1-2替换*，class名就是pure-u-1-2，表示宽1/2，即50%。
+
+  3、响应式栅栏：
+  3.1：响应式栅栏依赖基础栅栏，书写响应式栅栏时，先使用基础栅栏书写最小屏的样式，再通过响应式标签去书写各种大屏下的样式。比如对应小屏幕的class是.pure-u-1，中屏幕.pure-u-md-1-2，大屏幕 .pure-u-lg-1-4。缩放浏览器可以看到效果
+  3.2：媒体查询关键词：
+  3.2.1：手机sm ≥ 568px：（Class名为.pure-u-sm-*-*）
+  3.2.2：平板md ≥ 768px：（Class名为.pure-u-md-*-*）
+  3.2.3：手提lg ≥ 1024px：（Class名为.pure-u-lg-*-*）
+  3.2.4：台式xl ≥ 1280px：（Class名为.pure-u-xl-*-*）
+  3.3：Class书写顺序：先基础，后响应，由小屏到大屏 */}
+]]>
+  </content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>css-group-layout-grid</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>

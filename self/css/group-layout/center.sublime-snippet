@@ -1,0 +1,16 @@
+<snippet>
+  <content>
+<![CDATA[
+/* 带边距居中 .section-center */
+margin: 0 auto; /* 设置块级居中 */
+
+max-width: ${1:300px}; /* 设置最大宽度 */
+padding: ${2:50px}; /* 设置内边距 */
+box-sizing: border-box; /* 内边距计算到盒子宽度中 */
+]]>
+  </content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>css-group-layout-center</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>
