@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+<!-- less.js：使浏览器支持将less编译为css，环境限制：服务器下访问，标签限制：<link rel="stylesheet/less" type="text/css" href="styles.less" /> -->
+<script src="https://cdn.bootcss.com/less.js/2.5.3/less.min.js"></script>
+]]>
+  </content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>cdn-less</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,7 +1,7 @@
 <snippet>
   <content>
 <![CDATA[
-<!-- browser.min.js：通过babel，在线将es6或jsx转为es5（使浏览器支持es6或jsx），使用示例：<script type="text/babel"></script> -->
+<!-- browser.js：使浏览器支持将es6或jsx编译为es5，环境限制：无，标签限制：<script type="text/babel"></script> -->
 <script src="https://cdn.bootcss.com/babel-core/5.8.34/browser.min.js"></script>
 ]]>
   </content>
