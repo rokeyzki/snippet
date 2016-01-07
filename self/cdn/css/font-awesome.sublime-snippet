@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+<!-- font-awesome.css：图标库，使用示例：<i class="fa fa-camera-retro"></i> -->
+<link href="https://cdn.bootcss.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
+]]>
+  </content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>cdn-font-awesome</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>
