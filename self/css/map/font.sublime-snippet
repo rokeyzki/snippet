@@ -1,0 +1,24 @@
+<snippet>
+  <content>
+<![CDATA[
+${2:/* == CSS 导航 6.字体(font) ==
+ * 字体栈：font-family
+ * 字体尺寸：font-size
+ * 字体粗细：font-weight
+ * 字体倾斜：font-style
+ * 字体划线：text-decoration
+ * 字体颜色：color
+ * 字体阴影：text-shadow
+ * 字体渲染：text-rendering
+ * 字体行高：line-height
+ * 字母大小写：text-transform
+ * 字母大写浓缩：font-variant
+ */
+}${1:some-style}
+]]>
+  </content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>css-map-font</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>

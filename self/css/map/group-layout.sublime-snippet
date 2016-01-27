@@ -1,0 +1,19 @@
+<snippet>
+  <content>
+<![CDATA[
+${2:/* == CSS 导航 group 1.布局(layout) ==
+ * 侧边（设固定宽度）：sidebar
+ * 栅栏（包含响应式）：grid
+ * 居中（块级带边距）：center
+ * 居左（块级带边距）：left
+ * 居右（块级带边距）：right
+ * 平铺（块级瀑布流）：tile
+ */
+}${1:some-style}
+]]>
+  </content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>css-map-group-layout</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>
