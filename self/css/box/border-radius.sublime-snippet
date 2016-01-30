@@ -3,9 +3,13 @@
 <![CDATA[
 ${2:/* == 方向 ==
  * 全：one
- * 上下、右左：one two
- * 上、右左、下：one two three
- * 上、右、下、左：one two three four
+ * 西北和东南、东北和西南：one two
+ * 西北、东北和西南、东南：one two three
+ * 西北、东北、东南、西南：one two three four
+ *
+ * == 半径 ==
+ * 圆角半径：50px
+ * 水平半径，垂直半径：50px/25px
  *
  * == 参数 ==
  * 绝对值：px
