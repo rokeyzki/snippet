@@ -1,0 +1,15 @@
+<snippet>
+  <content>
+<![CDATA[
+${2:/* == CSS 导航 group 1.布局(layout) ==
+ * 边角（矩形、三角形、梯形）之母形：bian
+ * 圆角（圆形、扇形、椭圆形、胶囊形、橄榄形、尾巴形）之母形：yuan
+ */
+}${1:some-style}
+]]>
+  </content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>css-map-group-shape</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,19 @@
+<snippet>
+  <content>
+<![CDATA[
+/* 边角（矩形、三角形、梯形）之母形 #bian-alpha */
+width: ${1:100px};
+height: ${2:50px};
+
+background-color: ${3:#47D1EB};
+
+border-bottom: 100px dashed #EBDF28;
+border-left: 100px dashed #7AEB86;
+border-right: 100px dashed #EB4A4B;
+]]>
+  </content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>css-group-shape-bian</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>

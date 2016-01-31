@@ -1,0 +1,18 @@
+<snippet>
+  <content>
+<![CDATA[
+/* 圆角（圆形、扇形、椭圆形、胶囊形、橄榄形、尾巴形）之母形 #yuan-alpha */
+width: ${1:100px};
+height: ${2:50px};
+
+background-color: ${3:#47D1EB};
+
+border-top: 10px solid #669;
+border-radius: ~'100px/50px' 0 0 0;
+]]>
+  </content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>css-group-shape-yuan</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>

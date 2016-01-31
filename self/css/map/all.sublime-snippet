@@ -14,7 +14,7 @@ ${2:/* == CSS 导航 0.选择器后缀(css-map-selecter) ==
  * == CSS 导航 9.其他(css-map-other) ==
  *
  * == CSS 导航 group 1.布局(css-map-grounp-layout) ==
- * == CSS 导航 group 1.几何(css-map-grounp-shape) 未完成 ==
+ * == CSS 导航 group 1.几何(css-map-grounp-shape) ==
  */
 }${1:some-style}
 ]]>
