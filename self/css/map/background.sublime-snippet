@@ -1,7 +1,7 @@
 <snippet>
   <content>
 <![CDATA[
-${2:/* == CSS 导航 4.背景(background) ==
+${2:/* == CSS 导航 3.背景(background) ==
  * 背景可视范围：background-clip
  * 背景颜色：background-color
  * 背景图片起点：background-origin

@@ -1,7 +1,7 @@
 <snippet>
   <content>
 <![CDATA[
-${2:/* == CSS 导航 6.字体(font) ==
+${2:/* == CSS 导航 5.字体(font) ==
  * 字体栈：font-family
  * 字体尺寸：font-size
  * 字体粗细：font-weight

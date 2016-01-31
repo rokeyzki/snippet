@@ -1,7 +1,7 @@
 <snippet>
   <content>
 <![CDATA[
-${2:/* == CSS 导航 3.定位(position) ==
+${2:/* == CSS 导航 7.定位(position) ==
  * 位置：position
  * 上移：top
  * 下移：bottom

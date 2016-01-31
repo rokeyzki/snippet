@@ -1,7 +1,7 @@
 <snippet>
   <content>
 <![CDATA[
-${2:/* == CSS 导航 5.格式(space) ==
+${2:/* == CSS 导航 4.格式(space) ==
  * 行级对齐：vertical-align
  * 块级对齐：text-align
  * 文本缩进：text-indent
