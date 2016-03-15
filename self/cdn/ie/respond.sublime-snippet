@@ -6,11 +6,11 @@
   <!--[if !IE]><!-->
     <script src="${2:./app}.js"></script>
   <!--<![endif]-->
-<!-- 应对IE9及以上版本IE浏览器 -->
+<!-- 匹配IE9及以上版本IE浏览器 -->
   <!--[if IE 9]>
     <script src="${2:./app}.js"></script>
   <![endif]-->
-<!-- 应对IE8及以下版本IE浏览器 -->
+<!-- 匹配IE8及以下版本IE浏览器 -->
   <!--[if lte IE 8]>
     <script src="${1:../assets}/respond.min.js"></script>
     <script>if(window.respond){document.write('<script src="${2:./app}.js"><\/script>')}</script>
