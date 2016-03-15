@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+<!-- placehold：DEMO图片在线生成链接 -->
+<img src="http://placehold.it/${1:300}x${2:150}/${3:666}/${4:fff}.${5:jpg}?text=${6:演示+图}">
+]]>
+  </content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>cdn-placehold</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>
