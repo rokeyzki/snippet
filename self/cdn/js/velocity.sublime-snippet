@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+<!-- velocity.js：JS 动画库，解决jQuery Animation效率差的问题，可与jQuery兼容，实例：Velocity(element, { left: '300px' }, { duration: 800, easing: "easeInSine" }); -->
+<script src="https://cdn.bootcss.com/velocity/1.2.3/velocity.min.js"></script>
+]]>
+  </content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>cdn-velocity</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>
